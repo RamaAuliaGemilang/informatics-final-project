@@ -54,5 +54,3 @@ Dataset yang digunakan adalah **Music4All**, yang berisi informasi interaksi pen
    - Skenario model untuk mengetahui pengaruh preferensi pada hasil rekomendasi
    - Hyperparameter tuning untuk mengetahui parameter yang optimal.
    - Perbandingan hasil dengan baseline model rekomendasi.  
-git clone https://github.com/username/nama-repo.git
-cd nama-repo

@@ -4,6 +4,10 @@ This repository is part of an **Undergraduate Thesis** entitled:
 
 **Combining Graph Neural Network with Attention Mechanism in Sequence-Based Music Recommendation System**
 
+## 📄 Published Paper
+
+**IEEE Xplore:** [Combining Graph Neural Network with Attention Mechanism in Sequence-Based Music Recommendation System](https://ieeexplore.ieee.org/document/11290861)
+
 ## 📖 Research Overview
 
 This research focuses on developing a **sequence-based music recommendation system** by combining **Graph Neural Networks (GNN)** and **Attention Mechanism**.
